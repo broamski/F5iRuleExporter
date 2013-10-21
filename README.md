@@ -22,7 +22,7 @@ The **f5export.properties** properties file contains the following fields:
     + *example:* gtm.list=gtm01.megacorp.ca,gtm02.megacorp.ca
  + export.path
     + *Example:* export.path=/home/nuszkowski/F5iRuleExporter/rules
-    + **Note:** iRules are exported in the following structure <export.path>/<device name>/<irule name>.txt
+    + **Note:** iRules are exported in the following structure *exportpath*/*device name*/*irule name*.txt
 
 ### Execution
 
