@@ -1,4 +1,4 @@
-RuleExporter
+F5RuleExporter
 ===============
 
 F5iRuleExporter connects to a list of F5 Big-IP Local Traffic Manager (LTM) and Global Traffic Manager (GTM) devices, exporting all non system iRules to text files.
